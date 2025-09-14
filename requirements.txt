@@ -1,0 +1,14 @@
+./dlib-19.24.1-cp310-cp310-win_amd64.whl
+cmake #setup environment
+opencv-python #image processing and handling
+tinydb==3.15.0   #handling database
+face_recognition#face recognition library 
+imutils # basic python library 
+scikit-learn #for machine learning algorithms
+json_minify #for handling json files
+python-datauri #for handling data uri
+mediapipe==0.10.8 #for hand detection
+numpy==1.26.3
+#tkinter
+Pillow
+cmake
