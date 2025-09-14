@@ -1,4 +1,4 @@
-# Object Detection with YOLOv5
+# Object Detection Project
 
 ## Overview
 
